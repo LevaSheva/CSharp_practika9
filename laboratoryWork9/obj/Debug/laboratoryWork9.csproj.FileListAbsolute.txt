@@ -1,0 +1,7 @@
+C:\Users\Lev Shevchuk\Desktop\НИУ ВШЭ-Пермь\1 курс\Программирование на C#\Лабораторные работы\Лаб. работа 9\laboratoryWork9\obj\Debug\laboratoryWork9.csproj.AssemblyReference.cache
+C:\Users\Lev Shevchuk\Desktop\НИУ ВШЭ-Пермь\1 курс\Программирование на C#\Лабораторные работы\Лаб. работа 9\laboratoryWork9\obj\Debug\laboratoryWork9.csproj.CoreCompileInputs.cache
+C:\Users\Lev Shevchuk\Desktop\НИУ ВШЭ-Пермь\1 курс\Программирование на C#\Лабораторные работы\Лаб. работа 9\laboratoryWork9\bin\Debug\laboratoryWork9.exe.config
+C:\Users\Lev Shevchuk\Desktop\НИУ ВШЭ-Пермь\1 курс\Программирование на C#\Лабораторные работы\Лаб. работа 9\laboratoryWork9\bin\Debug\laboratoryWork9.exe
+C:\Users\Lev Shevchuk\Desktop\НИУ ВШЭ-Пермь\1 курс\Программирование на C#\Лабораторные работы\Лаб. работа 9\laboratoryWork9\bin\Debug\laboratoryWork9.pdb
+C:\Users\Lev Shevchuk\Desktop\НИУ ВШЭ-Пермь\1 курс\Программирование на C#\Лабораторные работы\Лаб. работа 9\laboratoryWork9\obj\Debug\laboratoryWork9.exe
+C:\Users\Lev Shevchuk\Desktop\НИУ ВШЭ-Пермь\1 курс\Программирование на C#\Лабораторные работы\Лаб. работа 9\laboratoryWork9\obj\Debug\laboratoryWork9.pdb
